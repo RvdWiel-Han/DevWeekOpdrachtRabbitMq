@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DevWeekOpdrachtRabbitMq:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DevWeekOpdrachtRabbitMq_jar</output-path>
+    <root id="archive" name="DevWeekOpdrachtRabbitMq.jar">
+      <element id="module-output" name="DevWeekOpdrachtRabbitMq" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.7.3/amqp-client-5.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
